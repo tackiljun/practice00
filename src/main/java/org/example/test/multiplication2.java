@@ -4,6 +4,8 @@ public class multiplication2 {
 
     public static void main(String[] args) {
 
+        System.out.println("==========구구단 2단==========");
+
         // 구구단 2단.
         for(int i = 1; i < 10; i++) {
 
