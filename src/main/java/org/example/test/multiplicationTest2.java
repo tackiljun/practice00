@@ -15,6 +15,8 @@ public class multiplicationTest2 {
 
         }
 
+        System.out.println("==========구구단 심화2==========");
+
     }
     
 }
