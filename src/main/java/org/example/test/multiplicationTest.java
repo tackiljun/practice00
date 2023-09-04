@@ -4,9 +4,9 @@ public class multiplicationTest {
     
     public static void main(String[] args) {
 
-        System.out.println("===============구구단 심화===============");
+        System.out.println("===============구구단 심화1===============");
         
-        // 구구단 심화.
+        // 구구단 심화1.
         for(int i = 1; i < 10; i++) {
 
             for(int j = 1; j < 10; j++) {
