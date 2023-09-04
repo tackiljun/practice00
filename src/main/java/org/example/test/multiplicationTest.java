@@ -11,7 +11,7 @@ public class multiplicationTest {
 
             for(int j = 1; j < 10; j++) {
 
-                System.out.println(("9 X " + i) +  " + " + ("8 X " + j) + " = " + (9 * i) + (8 * j));
+                System.out.println("(9 X i)" +  " + " + "(8 X j)" + " = " + (9 * i) + (8 * j));
 
             }
 
