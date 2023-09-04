@@ -13,11 +13,12 @@ public class multiplicationTest {
 
                 int result = (9 * i) + (8 * j);
 
-                System.out.println("(9 X i)" +  " + " + "(8 X j)" + " = " + result);
+                System.out.println("(" + "9 X " + i + ")" + " + " + "(" + "8 X " + j + ")" + " = " + result);
 
             }
 
         }
         
     }
+    
 }
