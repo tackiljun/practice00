@@ -22,6 +22,8 @@ public class multiplicationTest5 {
 
             System.out.println("8 X " + i + " = " + 8 * i);
 
+            System.out.println("9 X " + i + " = " + 9 * i);
+
         }
 
     }
