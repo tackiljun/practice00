@@ -16,6 +16,8 @@ public class multiplicationTest5 {
 
             System.out.println("5 X " + i + " = " + 5 * i);
 
+            System.out.println("6 X " + i + " = " + 6 * i);
+
         }
 
     }
