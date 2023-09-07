@@ -20,6 +20,8 @@ public class multiplicationTest5 {
 
             System.out.println("7 X " + i + " = " + 7 * i);
 
+            System.out.println("8 X " + i + " = " + 8 * i);
+
         }
 
     }
