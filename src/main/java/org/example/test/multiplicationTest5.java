@@ -14,6 +14,8 @@ public class multiplicationTest5 {
 
             System.out.println("4 X " + i + " = " + 4 * i);
 
+            System.out.println("5 X " + i + " = " + 5 * i);
+
         }
 
     }
