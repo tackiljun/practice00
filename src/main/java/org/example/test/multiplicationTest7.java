@@ -21,6 +21,14 @@ public class multiplicationTest7 {
         // }
 
         // j로 i를 감싸보자.
-        
+        for(int j = 2; j < 10; j++) {
+
+            for(int i = 1; i < 10; i++) {
+
+                System.out.println(j + " X " + i + " = " + j * i);
+
+            }
+        }
+
     }
 }
