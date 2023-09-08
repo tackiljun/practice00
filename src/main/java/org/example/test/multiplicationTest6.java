@@ -33,6 +33,8 @@ public class multiplicationTest6 {
 
                 System.out.println(j + " X " + i + " = " + j * i);
 
+                // 수정 전과 같다.....?????
+
             }
 
         }
