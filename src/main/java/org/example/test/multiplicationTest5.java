@@ -24,6 +24,8 @@ public class multiplicationTest5 {
 
             System.out.println("9 X " + i + " = " + 9 * i);
 
+            // 이렇게 하면 순서대로가 아닌 i순으로 출력?????
+
         }
 
     }
