@@ -10,6 +10,8 @@ public class multiplicationTest7 {
             for(int j = 2; j < 10; j++) {
 
                 System.out.println(j + " X " + i + " = " + j * i);
+                
+                // 줄여서 바꿔보고.
 
             }
 
