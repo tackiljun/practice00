@@ -27,6 +27,8 @@ public class multiplicationTest7 {
 
                 System.out.println(j + " X " + i + " = " + j * i);
 
+                // 완성.
+
             }
         }
 
