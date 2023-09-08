@@ -29,6 +29,8 @@ public class multiplicationTest6 {
 
                 System.out.println("j X " + i + " = " + j * i);
 
+                // 이건 아니고.
+
             }
 
         }
