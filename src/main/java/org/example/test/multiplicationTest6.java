@@ -31,7 +31,7 @@ public class multiplicationTest6 {
 
                 // j로 출력되서 이건 아니고.
 
-                
+                System.out.println(j + " X " + i + " = " + j * i);
 
             }
 
