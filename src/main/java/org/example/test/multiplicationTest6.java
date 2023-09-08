@@ -27,9 +27,11 @@ public class multiplicationTest6 {
             // 2부터 9를 j값으로 바꾸면?
             for(int j = 2; j < 10; j++) {
 
-                System.out.println("j X " + i + " = " + j * i);
+                // System.out.println("j X " + i + " = " + j * i);
 
-                // 이건 아니고.
+                // j로 출력되서 이건 아니고.
+
+                
 
             }
 
