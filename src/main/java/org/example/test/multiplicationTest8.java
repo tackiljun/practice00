@@ -12,6 +12,7 @@ public class multiplicationTest8 {
             for(int i = 1; i < 10; i++) {
 
                 System.out.println(j + " X " + i + " = " + j * i);
+                
                 // 완성.
 
             }
